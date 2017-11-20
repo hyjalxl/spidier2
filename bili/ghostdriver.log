@@ -1,0 +1,19 @@
+[INFO  - 2017-11-06T12:44:30.646Z] GhostDriver - Main - running on port 57080
+[INFO  - 2017-11-06T12:44:31.753Z] Session [3c4824b0-c2f0-11e7-86e2-7bbae8d5600d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-11-06T12:44:31.753Z] Session [3c4824b0-c2f0-11e7-86e2-7bbae8d5600d] - page.customHeaders:  - {}
+[INFO  - 2017-11-06T12:44:31.754Z] Session [3c4824b0-c2f0-11e7-86e2-7bbae8d5600d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-11-06T12:44:31.754Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3c4824b0-c2f0-11e7-86e2-7bbae8d5600d
+[ERROR - 2017-11-06T12:44:33.516Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509972273483
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-11-06T12:44:38.771Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1509972278757
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-11-06T12:48:40.774Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-11-06T12:53:40.776Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-11-06T12:58:40.778Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-11-06T13:03:40.779Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-11-06T12:48:16.004Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-11-06T12:53:16.004Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-11-06T12:58:16.004Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-11-06T13:03:16.010Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
